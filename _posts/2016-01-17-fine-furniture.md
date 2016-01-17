@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:29:39.896Z'
+datePublished: '2016-01-17T14:29:39.906Z'
 dateModified: '2016-01-17T14:29:39.812Z'
 title: Fine Furniture
 author: []
