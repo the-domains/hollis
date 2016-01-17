@@ -1,6 +1,6 @@
 name: Hollis
 favicon: null
-layout_spectrum: 0.27957480074837804
+layout_spectrum: 0.50447
 typography_spectrum: 0.8620755490846932
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#becfdf'
+    - '#ad5412'
+    - '#c68453'
+    - '#7d2904'
+    - '#ddb196'
   brandStrength: 0.5103222685866058
   lightness: 0.22529373154975474
   saturation: 0.6976559816394001
