@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:29:41.571Z'
-dateModified: '2016-01-17T14:29:41.481Z'
+datePublished: '2016-01-17T14:50:19.682Z'
+dateModified: '2016-01-17T14:37:31.999Z'
 title: Fine Furniture
 author: []
 sourcePath: _posts/2016-01-17-fine-furniture.md
@@ -22,12 +22,11 @@ url: fine-furniture/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ed96a04-465d-45f5-a6c9-c6dd7d34425a.jpg)
-
 [Casework][0]
 
 _Tables_
 
 _Chairs_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ed96a04-465d-45f5-a6c9-c6dd7d34425a.jpg)
 
 [0]: null
