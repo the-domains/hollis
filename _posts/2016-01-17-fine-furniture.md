@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:50:21.594Z'
-dateModified: '2016-01-17T14:50:21.389Z'
+datePublished: '2016-01-17T14:50:21.877Z'
+dateModified: '2016-01-17T14:50:21.573Z'
 title: Fine Furniture
 author: []
 sourcePath: _posts/2016-01-17-fine-furniture.md
