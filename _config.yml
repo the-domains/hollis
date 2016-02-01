@@ -1,6 +1,6 @@
 name: Hollis
 favicon: null
-layout_spectrum: 0.74681
+layout_spectrum: 0.76528
 typography_spectrum: 0.8620755490846932
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#211811'
   brandStrength: 0.5
   lightness: 0.22529373154975474
-  saturation: 0.6976559816394001
+  saturation: 0.5
   rhythmicContrast: 0.16817772388458252
 purpose: []
